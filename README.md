@@ -294,6 +294,6 @@ Below are some ways software engineers can adhere to ethical standards in their 
 - Participate in discussions and forums on ethical software development.
 
 **References**
-Gemini AI
-Google search
-Egwuchukwu Diala (A fullstack developer)
+- Gemini AI
+- Google search
+- Egwuchukwu Diala (A fullstack developer)
